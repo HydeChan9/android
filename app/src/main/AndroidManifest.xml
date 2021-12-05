@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".FinCards"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinForyou"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinPresentation5"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinPresentation4"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinPresentation3"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinPresentation2"
+            android:exported="true" ></activity>
+        <activity
+            android:name=".FinPresentation"
+            android:exported="true">
+
+            <!--
+        <activity
+            android:name=".Forfun1"
+            android:exported="true" >
+
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

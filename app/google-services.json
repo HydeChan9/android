@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "147454230107",
+    "firebase_url": "https://hyde-56096-default-rtdb.firebaseio.com",
+    "project_id": "hyde-56096",
+    "storage_bucket": "hyde-56096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147454230107:android:5d90fe4a9fa5047a9b897e",
+        "android_client_info": {
+          "package_name": "com.example.helloproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147454230107-esqj3914l6pi2ccmj862gjfantjj217r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7h3ClS2jj7wSntM8y1djJko-CTa3zeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147454230107-esqj3914l6pi2ccmj862gjfantjj217r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147454230107:android:56cb229e38d3c8d49b897e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147454230107-esqj3914l6pi2ccmj862gjfantjj217r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7h3ClS2jj7wSntM8y1djJko-CTa3zeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147454230107-esqj3914l6pi2ccmj862gjfantjj217r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

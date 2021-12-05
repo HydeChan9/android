@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+
+        <item
+            android:id="@+id/a1"
+            android:checked="true"
+            android:title="Account"/>
+        <item
+            android:id="@+id/a2"
+            android:checked="true"
+            android:title="Transfer"></item>
+        <item
+            android:id="@+id/a3"
+            android:checked="true"
+            android:title="Secure Setting">
+
+            <menu >
+                <group >
+                    <item
+                        android:id="@+id/i1"
+                        android:checked="true"
+                        android:title="Item 0" />
+                    <item
+                        android:id="@+id/i2"
+                        android:checked="true"
+                        android:title="Item 1" />
+                    <item
+                        android:id="@+id/i3"
+                        android:checked="true"
+                        android:title="Item 2" />
+                </group>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/a4"
+            android:checked="true"
+            android:title="Profile"></item>
+        <item
+            android:id="@+id/a5"
+            android:checked="true"
+            android:title="Cards"></item>
+
+    </group>
+
+
+</menu>
